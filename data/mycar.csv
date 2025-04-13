@@ -1,0 +1,200 @@
+username,reg no,Car_Name,Year,mileage,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner,no accidents
+admin,1,ritz,2014,18.5,3.35,5.59,27000,Petrol,Dealer,Manual,0,0
+admin,2,sx4,2013,18,4.75,9.54,43000,Diesel,Dealer,Manual,0,0
+admin,3,ciaz,2017,20,7.25,9.85,6900,Petrol,Dealer,Manual,0,0
+admin,4,wagon r,2011,25,2.85,4.15,5200,Petrol,Dealer,Manual,0,0
+admin,5,swift,2014,28,4.6,6.87,42450,Diesel,Dealer,Manual,0,0
+admin,6,vitara brezza,2018,20,9.25,9.83,2071,Diesel,Dealer,Manual,0,0
+admin,7,ciaz,2015,20,6.75,8.12,18796,Petrol,Dealer,Manual,0,0
+admin,8,s cross,2015,24,6.5,8.61,33429,Diesel,Dealer,Manual,0,0
+admin,9,ciaz,2016,26,8.75,8.89,20273,Diesel,Dealer,Manual,0,0
+admin,10,ciaz,2015,26,7.45,8.92,42367,Diesel,Dealer,Manual,0,0
+admin,11,alto 800,2017,22,2.85,3.6,2135,Petrol,Dealer,Manual,0,0
+admin,12,ciaz,2015,26,6.85,10.38,51000,Diesel,Dealer,Manual,0,0
+admin,13,ciaz,2015,20,7.5,9.94,15000,Petrol,Dealer,Automatic,0,0
+admin,14,ertiga,2015,19.34,6.1,7.71,26000,Petrol,Dealer,Manual,0,0
+admin,15,dzire,2009,22.41,2.25,7.21,77427,Petrol,Dealer,Manual,0,0
+admin,16,ertiga,2016,25.47,7.75,10.79,43000,Diesel,Dealer,Manual,0,0
+admin,17,ertiga,2015,25.47,7.25,10.79,41678,Diesel,Dealer,Manual,0,0
+admin,18,ertiga,2016,25.47,7.75,10.79,43000,Diesel,Dealer,Manual,0,0
+admin,19,wagon r,2015,34,3.25,5.09,35500,CNG,Dealer,Manual,0,0
+admin,20,sx4,2010,12,2.65,7.98,41442,Petrol,Dealer,Manual,0,0
+admin,21,alto k10,2016,24,2.85,3.95,25000,Petrol,Dealer,Manual,0,0
+admin,22,ignis,2017,20,4.9,5.71,2400,Petrol,Dealer,Manual,0,0
+admin,23,sx4,2011,12,4.4,8.01,50000,Petrol,Dealer,Automatic,0,0
+admin,24,alto k10,2014,24,2.5,3.46,45280,Petrol,Dealer,Manual,0,0
+admin,25,wagon r,2013,25,2.9,4.41,56879,Petrol,Dealer,Manual,0,0
+admin,26,swift,2011,22,3,4.99,20000,Petrol,Dealer,Manual,0,0
+admin,27,swift,2013,22,4.15,5.87,55138,Petrol,Dealer,Manual,0,0
+admin,28,swift,2017,22,6,6.49,16200,Petrol,Individual,Manual,0,0
+admin,29,alto k10,2010,24,1.95,3.95,44542,Petrol,Dealer,Manual,0,0
+admin,30,ciaz,2015,26,7.45,10.38,45000,Diesel,Dealer,Manual,0,0
+admin,31,ritz,2012,23.2,3.1,5.98,51439,Diesel,Dealer,Manual,0,0
+admin,32,ritz,2011,18.5,2.35,4.89,54200,Petrol,Dealer,Manual,0,0
+admin,33,swift,2014,28,4.95,7.49,39000,Diesel,Dealer,Manual,0,0
+admin,34,ertiga,2014,25.47,6,9.95,45000,Diesel,Dealer,Manual,0,0
+admin,35,dzire,2014,28.4,5.5,8.06,45000,Diesel,Dealer,Manual,0,0
+admin,36,sx4,2011,18,2.95,7.74,49998,CNG,Dealer,Manual,0,0
+admin,37,dzire,2015,22.41,4.65,7.2,48767,Petrol,Dealer,Manual,0,0
+admin,38,m800,2003,16,0.35,2.28,127000,Petrol,Individual,Manual,0,0
+admin,39,alto k10,2016,24,3,3.76,10079,Petrol,Dealer,Manual,0,0
+admin,40,sx4,2003,12,2.25,7.98,62000,Petrol,Dealer,Manual,0,0
+admin,41,baleno,2016,23,5.85,7.87,24524,Petrol,Dealer,Automatic,0,0
+admin,42,alto k10,2014,24,2.55,3.98,46706,Petrol,Dealer,Manual,0,0
+admin,43,sx4,2008,12,1.95,7.15,58000,Petrol,Dealer,Manual,0,0
+admin,44,dzire,2014,28.4,5.5,8.06,45780,Diesel,Dealer,Manual,0,0
+admin,45,omni,2012,19.7,1.25,2.69,50000,Petrol,Dealer,Manual,0,0
+admin,46,ciaz,2014,20,7.5,12.04,15000,Petrol,Dealer,Automatic,0,0
+admin,47,ritz,2013,18.5,2.65,4.89,64532,Petrol,Dealer,Manual,0,0
+admin,48,wagon r,2006,25,1.05,4.15,65000,Petrol,Dealer,Manual,0,0
+admin,49,ertiga,2015,19.34,5.8,7.71,25870,Petrol,Dealer,Manual,0,0
+admin,50,ciaz,2017,20,7.75,9.29,37000,Petrol,Dealer,Automatic,0,0
+admin,51,fortuner,2012,10,14.9,30.61,104707,Diesel,Dealer,Automatic,0,0
+admin,52,fortuner,2015,10,23,30.61,40000,Diesel,Dealer,Automatic,0,0
+admin,53,innova,2017,13,18,19.77,15000,Diesel,Dealer,Automatic,0,0
+admin,54,fortuner,2013,10,16,30.61,135000,Diesel,Individual,Automatic,0,0
+admin,55,innova,2005,11.4,2.75,10.21,90000,Petrol,Individual,Manual,0,0
+admin,56,corolla altis,2009,14.28,3.6,15.04,70000,Petrol,Dealer,Automatic,0,0
+admin,57,etios cross,2015,18.16,4.5,7.27,40534,Petrol,Dealer,Manual,0,0
+admin,58,etios g,2014,16.78,4.1,6.8,39485,Petrol,Dealer,Manual,1,0
+admin,59,fortuner,2014,10,19.99,35.96,41000,Diesel,Dealer,Automatic,0,0
+admin,60,corolla altis,2013,14.28,6.95,18.61,40001,Petrol,Dealer,Manual,0,0
+admin,61,etios cross,2015,18.16,4.5,7.7,40588,Petrol,Dealer,Manual,0,0
+admin,62,fortuner,2014,10,18.75,35.96,78000,Diesel,Dealer,Automatic,0,0
+admin,63,fortuner,2015,10,23.5,35.96,47000,Diesel,Dealer,Automatic,0,0
+admin,64,fortuner,2017,10,33,36.23,6000,Diesel,Dealer,Automatic,0,0
+admin,65,etios liva,2014,23.59,4.75,6.95,45000,Diesel,Dealer,Manual,0,0
+admin,66,innova,2017,11,19.75,23.15,11000,Petrol,Dealer,Automatic,0,0
+admin,67,fortuner,2010,8,9.25,20.45,59000,Diesel,Dealer,Manual,0,0
+admin,68,corolla altis,2011,14.28,4.35,13.74,88000,Petrol,Dealer,Manual,0,0
+admin,69,corolla altis,2016,14.28,14.25,20.91,12000,Petrol,Dealer,Manual,0,0
+admin,70,etios liva,2014,23.59,3.95,6.76,71000,Diesel,Dealer,Manual,0,0
+admin,71,corolla altis,2011,21.43,4.5,12.48,45000,Diesel,Dealer,Manual,0,0
+admin,72,corolla altis,2013,14.28,7.45,18.61,56001,Petrol,Dealer,Manual,0,0
+admin,73,etios liva,2011,18.16,2.65,5.71,43000,Petrol,Dealer,Manual,0,0
+admin,74,etios cross,2014,23.59,4.9,8.93,83000,Diesel,Dealer,Manual,0,0
+admin,75,etios g,2015,16.78,3.95,6.8,36000,Petrol,Dealer,Manual,0,0
+admin,76,corolla altis,2013,14.28,5.5,14.68,72000,Petrol,Dealer,Manual,0,0
+admin,77,corolla,2004,13.4,1.5,12.35,135154,Petrol,Dealer,Automatic,0,0
+admin,78,corolla altis,2010,14.28,5.25,22.83,80000,Petrol,Dealer,Automatic,0,0
+admin,79,fortuner,2012,10,14.5,30.61,89000,Diesel,Dealer,Automatic,0,0
+admin,80,corolla altis,2016,21.43,14.73,14.89,23000,Diesel,Dealer,Manual,0,0
+admin,81,etios gd,2015,23.59,4.75,7.85,40000,Diesel,Dealer,Manual,0,0
+admin,82,innova,2017,13,23,25.39,15000,Diesel,Dealer,Automatic,0,0
+admin,83,innova,2015,13,12.5,13.46,38000,Diesel,Dealer,Manual,0,0
+admin,84,innova,2005,13,3.49,13.46,197176,Diesel,Dealer,Manual,0,0
+admin,85,camry,2006,23,2.5,23.73,142000,Petrol,Individual,Automatic,3,0
+admin,86,land cruiser,2010,11.13,35,92.6,78000,Diesel,Dealer,Manual,0,0
+admin,87,corolla altis,2012,14.28,5.9,13.74,56000,Petrol,Dealer,Manual,0,0
+admin,88,etios liva,2013,18.16,3.45,6.05,47000,Petrol,Dealer,Manual,0,0
+admin,89,etios g,2014,23,4.75,6.76,40000,Petrol,Dealer,Manual,0,0
+admin,90,corolla altis,2009,14.28,3.8,18.61,62000,Petrol,Dealer,Manual,0,0
+admin,91,innova,2014,13,11.25,16.09,58242,Diesel,Dealer,Manual,0,0
+admin,92,innova,2005,11.4,3.51,13.7,75000,Petrol,Dealer,Manual,0,0
+admin,93,fortuner,2015,10,23,30.61,40000,Diesel,Dealer,Automatic,0,0
+admin,94,corolla altis,2008,14.28,4,22.78,89000,Petrol,Dealer,Automatic,0,0
+admin,95,corolla altis,2012,14.28,5.85,18.61,72000,Petrol,Dealer,Manual,0,0
+admin,96,innova,2016,13,20.75,25.39,29000,Diesel,Dealer,Automatic,0,0
+admin,97,corolla altis,2017,14.28,17,18.64,8700,Petrol,Dealer,Manual,0,0
+admin,98,corolla altis,2013,14.28,7.05,18.61,45000,Petrol,Dealer,Manual,0,0
+admin,99,fortuner,2010,8,9.65,20.45,50024,Diesel,Dealer,Manual,0,0
+admin,100,i20,2010,22,3.25,6.79,58000,Diesel,Dealer,Manual,1,0
+admin,101,grand i10,2015,20,4.4,5.7,28200,Petrol,Dealer,Manual,0,0
+admin,102,i10,2011,17,2.95,4.6,53460,Petrol,Dealer,Manual,0,0
+admin,103,eon,2015,22,2.75,4.43,28282,Petrol,Dealer,Manual,0,0
+admin,104,grand i10,2016,20,5.25,5.7,3493,Petrol,Dealer,Manual,1,0
+admin,105,xcent,2017,20.14,5.75,7.13,12479,Petrol,Dealer,Manual,0,0
+admin,106,grand i10,2015,19,5.15,5.7,34797,Petrol,Dealer,Automatic,0,0
+admin,107,i20,2017,21,7.9,8.1,3435,Petrol,Dealer,Manual,0,0
+admin,108,grand i10,2015,24,4.85,5.7,21125,Diesel,Dealer,Manual,0,0
+admin,109,i10,2012,17,3.1,4.6,35775,Petrol,Dealer,Manual,0,0
+admin,110,elantra,2015,17.3,11.75,14.79,43535,Diesel,Dealer,Manual,0,0
+admin,111,creta,2016,16.8,11.25,13.6,22671,Petrol,Dealer,Manual,0,0
+admin,112,i20,2011,21,2.9,6.79,31604,Petrol,Dealer,Manual,0,0
+admin,113,grand i10,2017,20,5.25,5.7,20114,Petrol,Dealer,Manual,0,0
+admin,114,verna,2012,18,4.5,9.4,36100,Petrol,Dealer,Manual,0,0
+admin,115,eon,2016,22,2.9,4.43,12500,Petrol,Dealer,Manual,0,0
+admin,116,eon,2016,22,3.15,4.43,15000,Petrol,Dealer,Manual,0,0
+admin,117,verna,2014,18,6.45,9.4,45078,Petrol,Dealer,Manual,0,0
+admin,118,verna,2012,18,4.5,9.4,36000,Petrol,Dealer,Manual,0,0
+admin,119,eon,2017,22,3.5,4.43,38488,Petrol,Dealer,Manual,0,0
+admin,120,i20,2013,20,4.5,6.79,32000,Petrol,Dealer,Automatic,0,0
+admin,121,i20,2014,22,6,7.6,77632,Diesel,Dealer,Manual,0,0
+admin,122,verna,2015,23,8.25,9.4,61381,Diesel,Dealer,Manual,0,0
+admin,123,verna,2013,18,5.11,9.4,36198,Petrol,Dealer,Automatic,0,0
+admin,124,i10,2011,17,2.7,4.6,22517,Petrol,Dealer,Manual,0,0
+admin,125,grand i10,2015,20,5.25,5.7,24678,Petrol,Dealer,Manual,0,0
+admin,126,i10,2011,17,2.55,4.43,57000,Petrol,Dealer,Manual,0,0
+admin,127,verna,2012,23,4.95,9.4,60000,Diesel,Dealer,Manual,0,0
+admin,128,i20,2012,20.89,3.1,6.79,52132,Diesel,Dealer,Manual,0,0
+admin,129,verna,2013,23,6.15,9.4,45000,Diesel,Dealer,Manual,0,0
+admin,130,verna,2017,18,9.25,9.4,15001,Petrol,Dealer,Manual,0,0
+admin,131,elantra,2015,14.8,11.45,14.79,12900,Petrol,Dealer,Automatic,0,0
+admin,132,grand i10,2013,24,3.9,5.7,53000,Diesel,Dealer,Manual,0,0
+admin,133,grand i10,2015,20,5.5,5.7,4492,Petrol,Dealer,Manual,0,0
+admin,134,verna,2017,18,9.1,9.4,15141,Petrol,Dealer,Manual,0,0
+admin,135,eon,2016,22,3.1,4.43,11849,Petrol,Dealer,Manual,0,0
+admin,136,creta,2015,18,11.25,13.6,68000,Diesel,Dealer,Manual,0,0
+admin,137,verna,2013,18,4.8,9.4,60241,Petrol,Dealer,Manual,0,0
+admin,138,eon,2012,22,2,4.43,23709,Petrol,Dealer,Manual,0,0
+admin,139,verna,2012,23,5.35,9.4,32322,Diesel,Dealer,Manual,0,0
+admin,140,xcent,2015,20.14,4.75,7.13,35866,Petrol,Dealer,Manual,1,0
+admin,141,xcent,2014,20.14,4.4,7.13,34000,Petrol,Dealer,Manual,0,0
+admin,142,i20,2016,21,6.25,7.6,7000,Petrol,Dealer,Manual,0,0
+admin,143,verna,2013,23,5.95,9.4,49000,Diesel,Dealer,Manual,0,0
+admin,144,verna,2012,23,5.2,9.4,71000,Diesel,Dealer,Manual,0,0
+admin,145,i20,2012,21,3.75,6.79,35000,Petrol,Dealer,Manual,0,0
+admin,146,verna,2015,18,5.95,9.4,36000,Petrol,Dealer,Manual,0,0
+admin,147,i10,2013,17,4,4.6,30000,Petrol,Dealer,Manual,0,0
+admin,148,i20,2016,21,5.25,7.6,17000,Petrol,Dealer,Manual,0,0
+admin,149,creta,2016,18,12.9,13.6,35934,Diesel,Dealer,Manual,0,0
+admin,150,city,2013,17.8,5,9.9,56701,Petrol,Dealer,Manual,0,0
+admin,151,brio,2015,16.5,5.4,6.82,31427,Petrol,Dealer,Automatic,0,0
+admin,152,city,2014,24,7.2,9.9,48000,Diesel,Dealer,Manual,0,0
+admin,153,city,2013,17.8,5.25,9.9,54242,Petrol,Dealer,Manual,0,0
+admin,154,brio,2012,18.5,3,5.35,53675,Petrol,Dealer,Manual,0,0
+admin,155,city,2016,17.8,10.25,13.6,49562,Petrol,Dealer,Manual,0,0
+admin,156,city,2015,17.8,8.5,13.6,40324,Petrol,Dealer,Manual,0,0
+admin,157,city,2015,17.8,8.4,13.6,25000,Petrol,Dealer,Manual,0,0
+admin,158,amaze,2014,18.6,3.9,7,36054,Petrol,Dealer,Manual,0,0
+admin,159,city,2016,17.8,9.15,13.6,29223,Petrol,Dealer,Manual,0,0
+admin,160,brio,2016,18.5,5.5,5.97,5600,Petrol,Dealer,Manual,0,0
+admin,161,amaze,2015,18.6,4,5.8,40023,Petrol,Dealer,Manual,0,0
+admin,162,jazz,2016,17,6.6,7.7,16002,Petrol,Dealer,Manual,0,0
+admin,163,amaze,2015,18.6,4,7,40026,Petrol,Dealer,Manual,0,0
+admin,164,jazz,2017,17,6.5,8.7,21200,Petrol,Dealer,Manual,0,0
+admin,165,amaze,2014,18.6,3.65,7,35000,Petrol,Dealer,Manual,0,0
+admin,166,city,2016,24,8.35,9.4,19434,Diesel,Dealer,Manual,0,0
+admin,167,brio,2017,18.5,4.8,5.8,19000,Petrol,Dealer,Manual,0,0
+admin,168,city,2015,17.8,6.7,10,18828,Petrol,Dealer,Manual,0,0
+admin,169,city,2011,17.8,4.1,10,69341,Petrol,Dealer,Manual,0,0
+admin,170,city,2009,17.8,3,10,69562,Petrol,Dealer,Manual,0,0
+admin,171,city,2015,17.8,7.5,10,27600,Petrol,Dealer,Manual,0,0
+admin,172,jazz,2010,17,2.25,7.5,61203,Petrol,Dealer,Manual,0,0
+admin,173,brio,2014,18.5,5.3,6.8,16500,Petrol,Dealer,Manual,0,0
+admin,174,city,2016,18,10.9,13.6,30753,Petrol,Dealer,Automatic,0,0
+admin,175,city,2015,17.8,8.65,13.6,24800,Petrol,Dealer,Manual,0,0
+admin,176,city,2015,17.8,9.7,13.6,21780,Petrol,Dealer,Manual,0,0
+admin,177,jazz,2016,17,6,8.4,4000,Petrol,Dealer,Manual,0,0
+admin,178,city,2014,17.8,6.25,13.6,40126,Petrol,Dealer,Manual,0,0
+admin,179,brio,2015,18.5,5.25,5.9,14465,Petrol,Dealer,Manual,0,0
+admin,180,city,2006,17.8,2.1,7.6,50456,Petrol,Dealer,Manual,0,0
+admin,181,city,2014,24,8.25,14,63000,Diesel,Dealer,Manual,0,0
+admin,182,city,2016,17.8,8.99,11.8,9010,Petrol,Dealer,Manual,0,0
+admin,183,brio,2013,18.5,3.5,5.9,9800,Petrol,Dealer,Manual,0,0
+admin,184,jazz,2016,17,7.4,8.5,15059,Petrol,Dealer,Automatic,0,0
+admin,185,jazz,2016,17,5.65,7.9,28569,Petrol,Dealer,Manual,0,0
+admin,186,amaze,2015,18.6,5.75,7.5,44000,Petrol,Dealer,Automatic,0,0
+admin,187,city,2015,17.8,8.4,13.6,34000,Petrol,Dealer,Manual,0,0
+admin,188,city,2016,17.8,10.11,13.6,10980,Petrol,Dealer,Manual,0,0
+admin,189,amaze,2014,18.6,4.5,6.4,19000,Petrol,Dealer,Manual,0,0
+admin,190,brio,2015,18.5,5.4,6.1,31427,Petrol,Dealer,Manual,0,0
+admin,191,jazz,2016,11.13,6.4,8.4,12000,Petrol,Dealer,Manual,0,0
+admin,192,city,2010,17.8,3.25,9.9,38000,Petrol,Dealer,Manual,0,0
+admin,193,amaze,2014,18.6,3.75,6.8,33019,Petrol,Dealer,Manual,0,0
+admin,194,city,2015,24,8.55,13.09,60076,Diesel,Dealer,Manual,0,0
+admin,195,city,2016,24,9.5,11.6,33988,Diesel,Dealer,Manual,0,0
+admin,196,brio,2015,18.5,4,5.9,60000,Petrol,Dealer,Manual,0,0
+admin,197,city,2009,17.8,3.35,11,87934,Petrol,Dealer,Manual,0,0
+admin,198,city,2017,24,11.5,12.5,9000,Diesel,Dealer,Manual,0,0
+admin,199,brio,2016,18.5,5.3,5.9,5464,Petrol,Dealer,Manual,0,0
