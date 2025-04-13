@@ -1,0 +1,13 @@
+<div class="main">
+<a href ="http://127.0.0.1:8000">home</a>
+<h1>The Details are </h1>
+<br>
+    {% for data in dataset %}
+
+    admin user name :{{ data.adminuname }}<br/>
+    admin password : {{ data.adminpwd }}<br/>
+    <hr/>
+
+    {% endfor %}
+</div>
+

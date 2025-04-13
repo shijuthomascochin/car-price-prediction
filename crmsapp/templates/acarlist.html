@@ -1,0 +1,109 @@
+{% extends 'adminbase.html' %}
+{% block body %}
+{% load static %}
+<!-- Page Content -->
+    <!-- Banner Starts Here -->
+    <div class="banner header-text">
+      <div class="owl-banner owl-carousel">
+        <div class="banner-item-01">
+          <div class="text-content">
+            <h4>Find your car today!</h4>
+            <h2>Lorem ipsum dolor sit amet</h2>
+          </div>
+        </div>
+        <div class="banner-item-02">
+          <div class="text-content">
+            <h4>Fugiat Aspernatur</h4>
+            <h2>Laboriosam reprehenderit ducimus</h2>
+          </div>
+        </div>
+        <div class="banner-item-03">
+          <div class="text-content">
+            <h4>Saepe Omnis</h4>
+            <h2>Quaerat suscipit unde minus dicta</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Banner Ends Here -->
+
+        <div class="best-features">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>The Details of car</h2>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="left-content">
+                        </div>
+    <table class="table table-light table-striped table-hover">
+                <thead>
+                  <tr>
+                    <th>OWNER</th>
+                    <th>REG NO</th>
+                    <th>MODEL</th>
+                    <th>YEAR</th>
+                    <th>KM</th>
+                    <th>NO ACC</th>
+                    <th>OPOS</th>
+                    <th>MILEAGE</th>
+                    <th>NO SEAT</th>
+                    <th>ENGINE TYPE</th>
+                    <th>EXP PRICE</th>
+                    <th>TRANSMISSION</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for c in dataset  %}
+                  <tr>
+                    <td>{{forloop.counter}}</td>
+                    <td>{{c.owner}}</td>
+                    <td>{{c.regno}}</td>
+                    <td>{{c.model}}</td>
+                    <td>{{c.year}}</td>
+                    <td>{{c.km}}</td>
+                    <td>{{c.noacc}}</td>
+                    <td>{{c.opos}}</td>
+                    <td>{{c.mileage}}</td>
+                    <td>{{c.noseat}}</td>
+                    <td>{{c.enginetype}}</td>
+                    <td>{{c.expprice}}</td>
+                    <td>{{c.transmission}}</td>
+                    <td>
+                      <a href="/adelete_car/{{c.id}}" class="btn btn-danger btn-sm">Delete</a>
+                      <a href="/aupdate_car/{{c.id}}" class="btn btn-success btn-sm">Update</a>
+                    </td>
+                  </tr>
+                  {%endfor%}
+                </tbody>
+              </table>
+
+
+
+    
+        </div>
+      </div>
+    </div>
+
+       <div class="call-to-action">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="inner-content">
+              <div class="row">
+                <div class="col-md-8">
+                  <h4>Lorem ipsum dolor sit amet, consectetur adipisicing.</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
+                </div>
+                <div class="col-lg-4 col-md-6 text-right">
+                  <a href="contact.html" class="filled-button">Contact Us</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+{% endblock %}

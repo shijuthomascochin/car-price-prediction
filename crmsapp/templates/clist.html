@@ -1,0 +1,15 @@
+
+<div class="main">
+<h1>The Details are </h1>
+<br>
+    {% for data in dataset %}
+
+    user name :{{ data.username }}<br/>
+    password : {{ data.password }}<br/>
+    full name : {{ data.fname }}<br/>
+    user email : {{ data.useremail }}<br/>
+    mobile no : {{ data.mobno }}<br/>
+    <hr/>
+
+    {% endfor %}
+</div>
